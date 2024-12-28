@@ -1,0 +1,26 @@
+.logo {
+    height: 25px;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 1px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+}
+
+.save-button{
+    padding: 10px 15px;
+    background-color: cornflowerblue;
+    color: #ffffff;
+    border: 0px;
+    border-radius: 10px;
+}
